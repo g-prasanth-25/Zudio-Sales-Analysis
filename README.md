@@ -2,6 +2,12 @@
 
 This README file provides details about the Python script used to process, clean, and store Zudio sales data in a MySQL database.
 
+## Dashboard
+
+Below is the screenshot of the dashboard:
+
+![Dashboard Image](\dashboard.png)
+
 ## **Overview**
 The script performs the following tasks:
 1. Imports necessary dependencies.
